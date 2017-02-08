@@ -1,2 +1,2 @@
 # Geometry-Dash-Blocks
-wow
+Blocks of Geometry Dash
